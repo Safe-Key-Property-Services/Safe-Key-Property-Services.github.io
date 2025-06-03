@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://safe-key-property-services.github.io/sitemap.xml

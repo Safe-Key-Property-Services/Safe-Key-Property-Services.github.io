@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Safe Key Property Services",
+    "description": "",
+    "home_page_url": "https://safe-key-property-services.github.io",
+    "feed_url": "https://safe-key-property-services.github.io/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Joshua Kieschnick"
+    },
+    "items": [
+    ]
+}
